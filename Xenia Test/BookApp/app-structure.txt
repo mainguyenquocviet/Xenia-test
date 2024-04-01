@@ -1,0 +1,12 @@
+src
+├── app
+│   ├── books
+│   │   ├── books.component.ts|.html
+│   │   └── book-form
+│   │       └── book-form.component.ts|.html
+│   ├── shared
+│   │   ├── book.service.ts
+│   │   └── book.model.ts
+│   └── app.module.ts
+├── styles.css (global css rules)
+└── index.html (cdn path for bootstrap & fa icons)
